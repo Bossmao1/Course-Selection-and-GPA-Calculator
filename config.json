@@ -1,0 +1,658 @@
+{
+  "courses": [
+    {
+      "course_id": "60100006",
+      "name": "画法几何与工程制图",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "1秋",
+      "hours": "64",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60100009",
+      "name": "工程思维：从创意到创新",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1秋",
+      "hours": "32",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60100007",
+      "name": "程序设计A",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1秋",
+      "hours": "64",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60100008",
+      "name": "电路与电子技术基础",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "1春",
+      "hours": "48",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60100019",
+      "name": "电路与电子技术基础实验",
+      "course_type": "必修",
+      "credits": 1.0,
+      "semester": "1春",
+      "hours": "32",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200029",
+      "name": "一元微积分",
+      "course_type": "必修",
+      "credits": 5.0,
+      "semester": "1秋",
+      "hours": "80",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200028",
+      "name": "线性代数",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "1秋",
+      "hours": "48",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200015",
+      "name": "多元微积分",
+      "course_type": "必修",
+      "credits": 5.0,
+      "semester": "1春",
+      "hours": "80",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200009",
+      "name": "大学物理A（上）",
+      "course_type": "必修",
+      "credits": 4.5,
+      "semester": "1春",
+      "hours": "72",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200017",
+      "name": "概率论与数理统计",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "2秋",
+      "hours": "48",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200016",
+      "name": "复变函数与积分变换",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "2秋",
+      "hours": "48",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200033",
+      "name": "大学物理A（下）",
+      "course_type": "必修",
+      "credits": 4.5,
+      "semester": "2秋",
+      "hours": "72",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200012",
+      "name": "大学物理实验A",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2秋",
+      "hours": "64",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200045",
+      "name": "现代农业概论",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1秋",
+      "hours": "32",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200038",
+      "name": "经济学原理",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2秋",
+      "hours": "32",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "60200051",
+      "name": "环境评价与管理",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1春",
+      "hours": "32",
+      "category": "大类平台"
+    },
+    {
+      "course_id": "13308027",
+      "name": "计算机系统导论",
+      "course_type": "必修",
+      "credits": 1.0,
+      "semester": "1秋",
+      "hours": "32",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "16308002",
+      "name": "专业认知",
+      "course_type": "必修",
+      "credits": 0.5,
+      "semester": "1秋",
+      "hours": "16",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "13308028",
+      "name": "离散数学I（图论和集合论）",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1春",
+      "hours": "32",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "13308029",
+      "name": "程序设计II（面向对象程序设计）",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1春",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "23308952",
+      "name": "数据结构",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "2秋",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "33308059",
+      "name": "计算机组成原理",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "2春",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "23308956",
+      "name": "数据库原理与实践",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "2春",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "23308940",
+      "name": "离散数学II（代数结构和数理逻辑）",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2春",
+      "hours": "32",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "33308907",
+      "name": "操作系统",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3秋",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "33308058",
+      "name": "计算机网络",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3秋",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "33308947",
+      "name": "人工智能",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3春",
+      "hours": "64",
+      "category": "学院平台"
+    },
+    {
+      "course_id": "16308963",
+      "name": "网络程序设计",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "1夏",
+      "hours": "2周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "23308934",
+      "name": "计算方法",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2秋",
+      "hours": "48",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "24308945",
+      "name": "算法设计与分析",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2春",
+      "hours": "48",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "26308007",
+      "name": "算法综合训练",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2夏",
+      "hours": "2周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "26308006",
+      "name": "计算机组成与体系结构课程设计",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "2夏",
+      "hours": "2周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "33308932",
+      "name": "机器学习",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3秋",
+      "hours": "64",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "33308905",
+      "name": "编译原理",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3春",
+      "hours": "64",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "33308015",
+      "name": "软件工程",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "3春",
+      "hours": "64",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "33308935",
+      "name": "计算机体系结构",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "3秋",
+      "hours": "64",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "34308019",
+      "name": "数据挖掘",
+      "course_type": "必修",
+      "credits": 1.0,
+      "semester": "3春",
+      "hours": "32",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "36308946",
+      "name": "嵌入式系统综合应用实践",
+      "course_type": "必修",
+      "credits": 1.0,
+      "semester": "3夏",
+      "hours": "1周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "36308006",
+      "name": "计算机系统工程综合实践",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "3夏",
+      "hours": "2周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "46308907",
+      "name": "计算机专业毕业实习",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "4春",
+      "hours": "3周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "46308008",
+      "name": "计算机专业毕业设计",
+      "course_type": "必修",
+      "credits": 5.0,
+      "semester": "4春",
+      "hours": "15周",
+      "category": "专业必修"
+    },
+    {
+      "course_id": "24308006",
+      "name": "Python程序设计",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "2春",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "24308936",
+      "name": "计算机图形学",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "2春",
+      "hours": "48",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308081",
+      "name": "统计机器学习",
+      "course_type": "选修",
+      "credits": 1.5,
+      "semester": "2春",
+      "hours": "24",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308012",
+      "name": "多媒体技术与实践",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308901",
+      "name": "C#程序设计",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308931",
+      "name": "互联网技术应用与开发",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "44308002",
+      "name": "虚拟现实技术",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308018",
+      "name": "计算机网络安全",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3春",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "35308006",
+      "name": "数字图像处理与实验",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "3春",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308021",
+      "name": "移动软件开发",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "3春",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308020",
+      "name": "计算机网络工程",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "4秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "46308004",
+      "name": "大数据应用开发综合实践",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "4秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "44308004",
+      "name": "软件测试",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "4秋",
+      "hours": "16",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308961",
+      "name": "统计分析及应用",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "春",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "34308067",
+      "name": "IT项目管理",
+      "course_type": "选修",
+      "credits": 2.0,
+      "semester": "秋",
+      "hours": "32",
+      "category": "专业选修"
+    },
+    {
+      "course_id": "52313006",
+      "name": "思想道德与法治",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "秋",
+      "hours": "48",
+      "category": "思政"
+    },
+    {
+      "course_id": "52313012",
+      "name": "中国近现代史纲要",
+      "course_type": "必修",
+      "credits": 2.5,
+      "semester": "秋",
+      "hours": "40",
+      "category": "思政"
+    },
+    {
+      "course_id": "52313019",
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "秋",
+      "hours": "48",
+      "category": "思政"
+    },
+    {
+      "course_id": "52213001F",
+      "name": "形势与政策（秋）",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "秋",
+      "hours": "32",
+      "category": "思政"
+    },
+    {
+      "course_id": "52313001",
+      "name": "马克思主义基本原理",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "春",
+      "hours": "48",
+      "category": "思政"
+    },
+    {
+      "course_id": "52313018",
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "course_type": "必修",
+      "credits": 3.0,
+      "semester": "春",
+      "hours": "48",
+      "category": "思政"
+    },
+    {
+      "course_id": "52213001S",
+      "name": "形势与政策（春）",
+      "course_type": "必修",
+      "credits": 2.0,
+      "semester": "春",
+      "hours": "32",
+      "category": "思政"
+    },
+    {
+      "course_id": "PE-F-0.5",
+      "name": "体育（0.5学分，可选）",
+      "course_type": "选修",
+      "credits": 0.5,
+      "semester": "秋",
+      "hours": null,
+      "category": "体育"
+    },
+    {
+      "course_id": "PE-F-1.0",
+      "name": "体育（1学分，可选）",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "秋",
+      "hours": null,
+      "category": "体育"
+    },
+    {
+      "course_id": "PE-S-0.5",
+      "name": "体育（0.5学分，可选）",
+      "course_type": "选修",
+      "credits": 0.5,
+      "semester": "春",
+      "hours": null,
+      "category": "体育"
+    },
+    {
+      "course_id": "PE-S-1.0",
+      "name": "体育（1学分，可选）",
+      "course_type": "选修",
+      "credits": 1.0,
+      "semester": "春",
+      "hours": null,
+      "category": "体育"
+    }
+  ],
+  "plan": {
+    "term_credit_limit": 30.0,
+    "elective_credit_requirement": 15.0,
+    "items": [
+      {
+        "course_id": "16308002",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "60100006",
+        "actual_semester": "1秋",
+        "gpa": 3.3
+      },
+      {
+        "course_id": "60100007",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "60100009",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "60200028",
+        "actual_semester": "1秋",
+        "gpa": 3.7
+      },
+      {
+        "course_id": "60200029",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "60200045",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "52313006",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      },
+      {
+        "course_id": "PE-F-0.5",
+        "actual_semester": "1秋",
+        "gpa": 4.0
+      }
+    ]
+  }
+}
